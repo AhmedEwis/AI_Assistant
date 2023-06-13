@@ -10,7 +10,7 @@ By integrating the strengths of Langchain and OpenAI, AI_Assistant employs large
 context-aware natural language interactions for a better understanding of their data.🧠
 ## Quick Start 🚀
 
-[![Robby-Chatbot](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
+[![AI_Assistant](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
 
 
 ## TO-DO :
