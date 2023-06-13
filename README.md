@@ -1,6 +1,6 @@
 # AI-chatbot 🤖
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yvann_hub?style=social)](https://twitter.com/sor3a95)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sor3a95?style=social)](https://twitter.com/sor3a95)
 [![Last Commit](https://img.shields.io/github/last-commit/yvann-hub/Robby-chatbot)](https://github.com/yvann-hub/Robby-chatbot/commits/main)
 
 
