@@ -1,7 +1,7 @@
 # AI-chatbot 🤖
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sor3a95?style=social)](https://twitter.com/sor3a95)
-[![Last Commit](https://img.shields.io/github/last-commit/yvann-hub/Robby-chatbot)](https://github.com/yvann-hub/Robby-chatbot/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/AhmedEwis/AI_Assistant)](https://github.com/AhmedEwis/AI_Assistant/commits/main)
 
 
 ### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF and TXT data in a more intuitive manner. 📄
