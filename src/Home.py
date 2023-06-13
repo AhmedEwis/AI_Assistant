@@ -39,7 +39,7 @@ st.markdown(
 st.markdown("---")
 
 
-#Robby's Pages
+#AI_Assistant's Pages
 st.subheader("🚀 AI_Assistant's Pages")
 st.write("""
 - **AI_Assistant-Chat**: General Chat on data (PDF, TXT,CSV) with a [vectorstore](https://github.com/facebookresearch/faiss) (can't process the whole file just index useful parts(max 4) for respond to the user ) | works with [ConversationalRetrievalChain](https://python.langchain.com/en/latest/modules/chains/index_examples/chat_vector_db.html) + (soon) Summarize data
