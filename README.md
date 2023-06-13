@@ -1,4 +1,4 @@
-# Ai-chatbot 🤖
+# AI-chatbot 🤖
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yvann_hub?style=social)](https://twitter.com/yvann_hub)
 [![Last Commit](https://img.shields.io/github/last-commit/yvann-hub/Robby-chatbot)](https://github.com/yvann-hub/Robby-chatbot/commits/main)
