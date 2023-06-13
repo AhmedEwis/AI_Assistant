@@ -5,15 +5,13 @@
 
 
 ### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF and TXT data in a more intuitive manner. 📄
-![Robby](robby-pic.png)
-Robby the Robot from [Forbidden Planet](https://youtu.be/bflfQN_YsTM)
 
-By integrating the strengths of Langchain and OpenAI, Robby employs large language models to provide users with seamless, 
+By integrating the strengths of Langchain and OpenAI, AI_Assistant employs large language models to provide users with seamless, 
 context-aware natural language interactions for a better understanding of their data.🧠
-#### For better understanding, see my medium article 🖖 : [Build a chat-bot over your CSV data](https://medium.com/@yvann-hub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd)
 ## Quick Start 🚀
 
-[![Robby-Chatbot](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/)
+[![AI_Assistant](https://img.shields.io/static/v1?label=AI_Assistant&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)]
+(https://ahmedewis-ai-assistant-warba-srchome-0mzmvt.streamlit.app/)
 
 
 ## TO-DO :
