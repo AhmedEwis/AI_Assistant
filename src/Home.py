@@ -9,7 +9,7 @@ st.set_page_config(layout="wide", page_icon="💬", page_title="Robby | Chat-Bot
 with st.sidebar.expander("📬 Contact"):
 
     st.write("**GitHub:**",
-"[AhmedEwis/AI_Assistant](https://github.com/AhmedEwis/AI_Assistant)")
+"[AhmedEwis/AI_Assistant](https://github.com/AhmedEwis)")
 
 
     st.write("**Twitter:** [@sor3a95](https://twitter.com/sor3a95)")
