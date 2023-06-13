@@ -5,6 +5,7 @@
 
 
 ### An AI chatbot featuring conversational memory, designed to enable users to discuss their CSV, PDF and TXT data in a more intuitive manner. 📄
+![AI_Assistant](AI_Assistant.png)
 
 By integrating the strengths of Langchain and OpenAI, AI_Assistant employs large language models to provide users with seamless, 
 context-aware natural language interactions for a better understanding of their data.🧠
