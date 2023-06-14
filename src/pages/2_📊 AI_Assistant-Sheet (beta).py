@@ -4,7 +4,7 @@ import sys
 import pandas as pd
 import streamlit as st
 from io import BytesIO
-from modules.robby_sheet.table_tool import PandasAgent
+from modules.AI_Assistant.table_tool import PandasAgent
 from modules.layout import Layout
 from modules.utils import Utilities
 from modules.sidebar import Sidebar
