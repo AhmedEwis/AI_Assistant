@@ -17,7 +17,7 @@ def reload_module(module_name):
         importlib.reload(sys.modules[module_name])
     return sys.modules[module_name]
 
-table_tool_module = reload_module('modules.robby_sheet.table_tool')
+table_tool_module = reload_module('modules.AI_Assistant.table_tool')
 layout_module = reload_module('modules.layout')
 utils_module = reload_module('modules.utils')
 sidebar_module = reload_module('modules.sidebar')
